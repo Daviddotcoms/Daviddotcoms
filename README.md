@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm David Correa</h1>
 
 # 💫 About Me:
-🚀 Journeying Through: I´m currently exploring challenges on LeetCode to improve my skills<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>🔍 My Specialty: Mastering JavaScript and specializing in React and React Native for both web and mobile development. I’m passionate about delivering high-quality code that enhances user experiences.<br>📘 Hobbies: Read books, hunt trophies on PSN games, penspinning.
+🚀 Journeying Through: I´m currently exploring challenges on LeetCode to improve my skills<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>🔍 My Specialty: Mastering JavaScript and specializing in React and React Native for both web and mobile development. I’m passionate about delivering high-quality code that enhances user experiences.<br>📘 Hobbies: Hunt trophies on PSN games.
 
 
 ## 💻 Tech Stack:
