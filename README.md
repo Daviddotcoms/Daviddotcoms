@@ -19,4 +19,5 @@
 
 ## 📊 GitHub Stats:
 ![Daviddotcoms's Stats](https://github-readme-stats.vercel.app/api?username=Daviddotcoms&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Daviddotcoms's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daviddotcoms&theme=vue-dark&hide_border=true)
 ![Daviddotcoms's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daviddotcoms&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
