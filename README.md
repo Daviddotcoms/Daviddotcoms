@@ -13,8 +13,6 @@
 
 [<img src="https://img.shields.io/badge/-YouTube-informational?style=for-the-badge&logo=youtube&logoColor=black&color=red">](https://www.youtube.com/@Davdrewdev) 
 
-  <br>
-
 <h2 align="center">⚡ GITHUB STATS ⚡</h2>
 
 <p align="center">
