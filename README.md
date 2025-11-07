@@ -42,3 +42,16 @@
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge">
 </p>
+
+<h2 align="center">👾 FEATURED PROJECTS 👾</h2>
+<p><strong>Assistant Neural Interface:</strong> https://app.ctem.ec/login</p>
+<h3><strong>Repositorios:</strong> </h3>
+<p><strong>FrontEnd:</strong> </p>
+https://github.com/InstitutoSudamericano/ani-web-app
+<p><strong>FrontEnd (Mobile):</strong> </p>
+https://github.com/InstitutoSudamericano/ani-react-native
+<p><strong>BackEnd:</strong> </p>
+https://github.com/InstitutoSudamericano/ani-web-api
+https://github.com/InstitutoSudamericano/ani_ai_api
+<p><strong>Websocket (Real time application):</strong> </p>=
+https://github.com/InstitutoSudamericano/ani-socket-api
