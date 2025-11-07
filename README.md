@@ -44,14 +44,18 @@
 </p>
 
 <h2 align="center">👾 FEATURED PROJECTS 👾</h2>
-<p><strong>Assistant Neural Interface:</strong> https://app.ctem.ec/login</p>
+<p align="center"><strong>Assistant Neural Interface:</strong> https://app.ctem.ec/login</p>
 <h3><strong>Repositorios:</strong> </h3>
 <p><strong>FrontEnd:</strong> </p>
 https://github.com/InstitutoSudamericano/ani-web-app
+
 <p><strong>FrontEnd (Mobile):</strong> </p>
 https://github.com/InstitutoSudamericano/ani-react-native
+
 <p><strong>BackEnd:</strong> </p>
 https://github.com/InstitutoSudamericano/ani-web-api
+<br/>
 https://github.com/InstitutoSudamericano/ani_ai_api
+
 <p><strong>Websocket (Real time application):</strong> </p>
 https://github.com/InstitutoSudamericano/ani-socket-api
