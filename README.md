@@ -53,5 +53,5 @@ https://github.com/InstitutoSudamericano/ani-react-native
 <p><strong>BackEnd:</strong> </p>
 https://github.com/InstitutoSudamericano/ani-web-api
 https://github.com/InstitutoSudamericano/ani_ai_api
-<p><strong>Websocket (Real time application):</strong> </p>=
+<p><strong>Websocket (Real time application):</strong> </p>
 https://github.com/InstitutoSudamericano/ani-socket-api
